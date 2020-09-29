@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Marinho</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroermarinho" alt="pedroermarinho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroermarinho" alt="pedroermarinho" /> 
+<a href="https://twitter.com/pedroermarinho" target="_blank"><img alt="Twitter: pedroermarinho" src="https://img.shields.io/twitter/follow/pedroermarinho.svg?style=social" /></a>
+</p>
 
 - 🌱 I’m currently learning **Rust and Flutter**
 
