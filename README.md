@@ -28,6 +28,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroermarinho&show_icons=true&locale=pt-br&count_private=true&theme=nord" alt="pedroermarinho" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroermarinho&locale=pt-br&theme=nord" alt="pedroermarinho" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroermarinho&locale=pt-br&theme=nord&count_private=true" alt="pedroermarinho" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedroermarinho&theme=nord" alt="pedroermarinho" /></p>
