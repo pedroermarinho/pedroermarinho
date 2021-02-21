@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Pedro Marinho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroermarinho&label=Profile%20views&color=0e75b6&style=flat" alt="pedroermarinho" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroermarinho" alt="pedroermarinho" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroermarinho&theme=nord&margin-w=15" alt="pedroermarinho" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pedroermarinho" target="blank"><img src="https://img.shields.io/twitter/follow/pedroermarinho?logo=twitter&style=for-the-badge" alt="pedroermarinho" /></a> </p>
 
