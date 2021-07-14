@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pedroermarinho" target="blank"><img src="https://img.shields.io/twitter/follow/pedroermarinho?logo=twitter&style=for-the-badge" alt="pedroermarinho" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **Rust e Flutter**
+- 🌱 Atualmente estou aprendendo **Java e Flutter**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://pedroermarinho.github.io/](https://pedroermarinho.github.io/)
 
