@@ -7,9 +7,11 @@
 
 - 🌱 Atualmente estou aprendendo **Java e Flutter**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://pedroermarinho.github.io/](https://pedroermarinho.github.io/)
+- 👨‍💻 Meus projetos estão disponíveis em [https://pedroermarinho.github.io/](https://pedroermarinho.github.io/)
 
 - 📫 Como entrar em contato comigo **pedroermarinho@gmail.com**
+
+- 👨‍💻 Mais projetos podem ser encontrados em [https://github.com/TECFlyingCommunity](https://github.com/TECFlyingCommunity)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
