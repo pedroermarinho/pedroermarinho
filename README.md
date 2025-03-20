@@ -1,6 +1,9 @@
 <h1 align="center">Olá 👋, Meu nome é Pedro Marinho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroermarinho&label=Profile%20views&color=0e75b6&style=flat" alt="pedroermarinho" /> </p>
 <a href="https://wakatime.com/@fc86e81a-9163-49db-a286-eabfcb5b5a0e"><img src="https://wakatime.com/badge/user/fc86e81a-9163-49db-a286-eabfcb5b5a0e.svg" alt="Total time coded since Oct 3 2020" /></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pedroermarinho&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://twitter.com/pedroermarinho" target="blank"><img src="https://img.shields.io/twitter/follow/pedroermarinho?logo=twitter&style=for-the-badge" alt="pedroermarinho" /></a> </p>
 
 - 🌱 Atualmente estou aprendendo **Java e Flutter**
